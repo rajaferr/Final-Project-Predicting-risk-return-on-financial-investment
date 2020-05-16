@@ -2,7 +2,7 @@
 
 Final project ini merupakan syarat kelulusan dari kelas Intro to Python for Data Science yang diadakan oleh Hacktiv8
 
-Saya mengacu pada user https://www.kaggle.com/mmmarchetti dengan menggunakan data S&P500 serta secara spesifik membandingkan investasi mana yang lebih baik antara Amazon dan Facebook
+Saya mengacu pada user https://www.kaggle.com/mmmarchetti dengan menggunakan data NASDAQ S&P500 serta secara spesifik membandingkan investasi mana yang lebih baik antara Amazon dan Facebook
 
 Saran dari penulis data ini dapat di modifikasi sesuai kebutuhan di Indonesia, dengan menggunakan data IDX, LQ45, Index Kompas 100, ataupun data lainnya yang relevan
 
